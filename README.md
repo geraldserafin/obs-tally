@@ -1,1 +1,1 @@
-# OBS-Tally on ESP8266 microcontroller
+# OBS-Tally for ESP8266 microcontroller
